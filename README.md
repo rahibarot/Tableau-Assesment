@@ -5,10 +5,6 @@ This case study involves creating a tableau visualization and recommendation for
 
 If you don’t already have Tableau on your computer, see below for step-by-step instructions to install Tableau Desktop on windows or macOS. 
 
-Please review the task description below and submit the task deliverables by Monday, October 12 at 12 PM ET. Please document any assumptions you need to make in the case. Following a review period, we will reach out if you are selected to progress to further rounds. 
-
-We appreciate your interest in Block and excited to move forward with you in this process!
-
 TASK: Zip Code Targeting
 
 [Context]

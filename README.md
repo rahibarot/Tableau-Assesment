@@ -1,4 +1,4 @@
-# Tablue-Assesment test
+# Tableau -Assesment test
 The purpose of this case study is to gauge my proficiency with Tableau. Tableau is an important data visualization tool for all teams at Block, and particularly for Analytics as a common platform to solve problems and deliver actionable recommendations to our stakeholders.
 
 This case study involves creating a tableau visualization and recommendation for the Growth team at Block. 
